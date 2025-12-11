@@ -44,5 +44,6 @@ This will load the saved model and evaluate it on the test split, printing MAE a
 python visualize.py
 
 This will generate:
+
 figures/wind_distribution.png
 figures/feature_importance.png
