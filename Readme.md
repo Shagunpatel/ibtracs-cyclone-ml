@@ -28,19 +28,19 @@ Save it as:
 pip install -r requirements.txt
 
 ## Running the code
-From the project root:
+ From the project root:
 
-# Training
+### Training
 python train.py
 
 This will train a Random Forest model and save it to models/random_forest_usa_wind.pkl.
 
-# Testing
+### Testing
 python test.py
 
 This will load the saved model and evaluate it on the test split, printing MAE and R².
 
-# Visualizations
+### Visualizations
 python visualize.py
 
 This will generate:
