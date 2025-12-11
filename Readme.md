@@ -45,5 +45,5 @@ python visualize.py
 
 This will generate:
 
-figures/wind_distribution.png
+figures/wind_distribution.png <br>
 figures/feature_importance.png
